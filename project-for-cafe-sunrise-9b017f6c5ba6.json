@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-for-cafe-sunrise",
+  "private_key_id": "9b017f6c5ba66ad4ea737df0251d042100bd0bc7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDA+IWVfMsoWdB/\nnWamci/vca6jRy67I47o01pYTKLUc4WruR8pB6BBvRKtZxAn4YVL3vgsfpUAsUrL\nRluw7MMOpZrRZ93+ln1h3qi0WdyksiLlKNd3GI+AvHlTH7dLI6E+4rjXFcabOFXA\nasfUIHUpNpMAcjDTagy6HYicDIPi6EAA/8uOP4QzxVLQAh1OT2TF6LuGLTyCu/Pw\nnCrSEHorOlBLbVBkDZ8IQE2RRs5P3yNaK1pJYIvoBaAd3RhvU+EJ7EAEJWh1BZ60\nyDTvFI7dmGiz5sy2mpF1vyTMAM40TGGOOMhDuaNfOkcH82n2oDBTL7e+QbYk3vSs\nvgnS1XPlAgMBAAECggEAClLRV128LaNebZFWuPAHbfnTjrMjxh8LycYS1tdPZ7/A\nETTfvKLGjqBw7nDC0xYJevVfAAcL7XlOp8t9Y3H1085awboFjOrxTWordYM63rRp\nUaqqxO7osHRaJkReWolPBU2nogQYIlzew42YNVpA16yugRna0Fijp9T60Q8KAuUe\nIijBU+2eu6XFwBJP0Gt0n+8uIp4HMiV19TnYix3iWYTU2dHBpFXspvKBKrWpp3HS\nOhSQDlJnSDM/eTgYM6dDILcM/yNzLrxJ2B2HV7tMrG7J9ipFtqzwUDjDjIGKr4dm\nNO8iDDzOUmBFfC2Bh/xVyTKuBgTJMbs+1J+3F+2L2QKBgQD6YaYsXQOfMURKzgmE\nLxFMUm9AY3hZZHusEiH8j0tRF2GFqmQDoYKg3A8m4kpDwbO2O0xXh0RKLJ6pteZu\nI+gwcJ5WuOoxqE58HSdQa1D/Z+WCaD87clU37EwICghG73sLcskmct/xBGAF75GH\n/lEfzuKaklklZhfz1L+0v+Ew7QKBgQDFTRG59q9gMtWHxc0peEcqHFggOizlfZk2\nb14OVMxXwpKs4E8Zjo6MFRhom33Tb4kAfgIN9/HA/1K2VkbLOAgOq1zdNtPGlDDj\ntVAK7rjNtQfeEPs4310o68EAJvnGH9Km1Rc/YzpEpCdc+QjqbzBGSNgrN/tvyIkU\nzH15Rf6H2QKBgAE84lltzErJL5E/G4TvxqId9jbXRw0KFiJvpINfIfwwpWbHxN7P\nuZmZ/OkwTTWwi3bnLCVyob/MIKyuHYmF2+wBYocDOwUr09eBPWSEY04f8V6HrWhZ\n1FoGbQnNIuVW4cDYvG3YO4sxflgJKysE8tm5aB1jg9VPf+bQsnHuUOqxAoGBAKeu\n95jYSnb03TvWZaaQHdNxYYiKSOwGUffMsOB3O3B+4o/g1/k9inMN3r/RHyBa09JC\nRda/Wo0PsqlbLDG8/kQRagxsc5J7Eg4FY/DWsOPLrtMSFaFhXNjRfSd2+KNlGnBF\n/MsXt0btSLMgyG4Ob7XcZTReEOkRQ0gU/7LZRRkJAoGAexcuQu8Ao0+YGxWt50sn\nyX4iDI53JgEkgRl9+3mfvq72cgCudlkqw5qok4haLepLYanuyPFQfDYvycYIB/Vw\nVZtGA0yZxb7eFbvXtUttxkoCUnO0Jxaxcv49STce4drNxmXivX1oigXW8+ruLqpI\nmOeE8B+PYc5nhb5ZNHkiIAY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "acc-797@project-for-cafe-sunrise.iam.gserviceaccount.com",
+  "client_id": "103815154652374160389",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acc-797%40project-for-cafe-sunrise.iam.gserviceaccount.com"
+}
